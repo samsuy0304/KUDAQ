@@ -14,6 +14,6 @@ A URl consists of host, port, and rule.
  #### Port 
  Defaults to 5000
  #### Rule
- A rule can be thought of as page. In <pre> http://127.0.0.1:5000/hello </pre>, the rule <pre> '/hello' </pre> is bound to the function <pre> hello_world() </pre>.
+ A rule can be thought of as page. In `http://127.0.0.1:5000/hello`, the rule `'/hello'` is bound to the function ` hello_world()`.
  
- A rule can either be added using <pre> route() </pre> or <pre> app.add_url_rule(rule, function) </pre>.
+ A rule can either be added using ` route()` or ` app.add_url_rule(rule, function) `.

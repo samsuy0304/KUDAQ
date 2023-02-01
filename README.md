@@ -10,9 +10,8 @@ virtualenv is a virtual Python environment builder used to prevent compatibitili
 
  ''' pip install virtualenv '''
 
- Start each line with a space.
- Text is '''preformatted''' and
- ''markups'' '''''can''''' be done
+<pre> Text is '''preformatted''' and
+''markups'' '''''cannot''''' be done</pre>
 
 
 
